@@ -1,3 +1,3 @@
 # JavaScript Visualizations
 
-All pages were created while following the instructor during class meetings.
+All files were created while following the instructor during class meetings.
